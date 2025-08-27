@@ -17,7 +17,8 @@ int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
 
-    //carat1
+    //carta1
+    printf("Carta 1: \n");
     printf("escreva o codigo da sua carta: \n");
     scanf("%s", &codigodacarta);
 
@@ -42,7 +43,8 @@ int main() {
 
 
     //carta2
-printf("escreva o codigo da sua carta: \n");
+     printf("Carta 1: \n");
+     printf("escreva o codigo da sua carta: \n");
     scanf("%s", &codigodacarta2);
 
     printf("escreva a letra inicial do seu estado: \n");
